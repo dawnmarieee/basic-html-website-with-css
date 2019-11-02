@@ -1,1 +1,1 @@
-My bootstrap project that needs improvement
+My bootstrap project that needs improvement. Used HTML, Bootstrap and linked to PHP, CSS. Has Login Logout but is not completed. No code included for food of choice/price. Just a simple Bootstrap Web. Can fit to mobile xs, sm, md, lg.
